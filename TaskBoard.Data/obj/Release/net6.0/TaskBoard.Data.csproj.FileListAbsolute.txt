@@ -1,0 +1,12 @@
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\bin\Release\net6.0\TaskBoard.Data.deps.json
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\bin\Release\net6.0\TaskBoard.Data.dll
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\bin\Release\net6.0\TaskBoard.Data.pdb
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.AssemblyInfo.cs
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.dll
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\refint\TaskBoard.Data.dll
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\TaskBoard.Data.pdb
+C:\Users\User\Documents\2024-2025\Dockerdom\04.Cloud-Technologies-Exercises-Resources\TaskBoard.Data\obj\Release\net6.0\ref\TaskBoard.Data.dll
